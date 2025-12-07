@@ -1,6 +1,4 @@
-# Code Organization
-
-### File Structure
+# File Structure
 ```
 Embedded/
 ├── main/
@@ -9,7 +7,9 @@ Embedded/
 ├── build/                  (Generated build artifacts)
 ├── CMakeLists.txt          (Project configuration)
 ├── sdkconfig               (ESP-IDF configuration)
+```
 ---
+
 # Build Instructions:
 
 ```bash
